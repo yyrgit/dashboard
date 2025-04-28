@@ -159,7 +159,7 @@ export default function Login() {
             sx={{ color: "rgba(255, 255, 255, 0.7)", mt: 4 }}
           >
             <span style={{ color: "#ffffff", fontWeight: "bold" }}>
-              BY - Yesha (202303103510111)
+              BY - Yesha Yadav (202303103510111)
             </span>
           </Typography>
         </Container>
